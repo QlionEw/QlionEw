@@ -1,5 +1,7 @@
 # Sleepy...
-![Badge](https://cp-logo.vercel.app/atcoder/Qlion)
+[![Badge](https://cp-logo.vercel.app/atcoder/Qlion)](https://atcoder.jp/users/Qlion)
+[![Commits Badge](https://badges.pufler.dev/commits/all/QlionEw)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/QlionEw)](https://badges.pufler.dev)
 
 <!--
 **QlionEw/QlionEw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
