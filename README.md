@@ -1,7 +1,8 @@
 # Sleepy...
-[![Badge](https://cp-logo.vercel.app/atcoder/Qlion)](https://atcoder.jp/users/Qlion)
+[![Qlion](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FQlion)](https://atcoder.jp/users/Qlion)
 [![Commits Badge](https://badges.pufler.dev/commits/all/QlionEw)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/QlionEw)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/QlionEw)](https://badges.pufler.dev)  
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Qlion&theme=darkhub&rank=SSS,SS,S,AAA,AA,A)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 <!--
 **QlionEw/QlionEw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
